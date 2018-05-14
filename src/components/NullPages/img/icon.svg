@@ -1,0 +1,81 @@
+<svg id="组_79" data-name="组 79" xmlns="http://www.w3.org/2000/svg" width="141" height="141" viewBox="0 0 141 141">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0051ff;
+        opacity: 0.05;
+      }
+
+      .cls-2 {
+        fill: #d8e8ff;
+      }
+
+      .cls-2, .cls-3, .cls-9 {
+        stroke: #59688e;
+        stroke-width: 1.5px;
+      }
+
+      .cls-3, .cls-9 {
+        fill: #fefefe;
+      }
+
+      .cls-4, .cls-7 {
+        fill: #59688e;
+      }
+
+      .cls-5, .cls-8 {
+        fill: #a6aec2;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        opacity: 0.75;
+      }
+
+      .cls-9 {
+        opacity: 0.6;
+      }
+    </style>
+  </defs>
+  <g id="组_78" data-name="组 78">
+    <circle id="椭圆_9" data-name="椭圆 9" class="cls-1" cx="70.5" cy="70.5" r="70.5"/>
+    <g id="组_77" data-name="组 77">
+      <rect id="矩形_17" data-name="矩形 17" class="cls-2" x="46" y="39" width="50" height="64" rx="4" ry="4"/>
+      <rect id="矩形_17-2" data-name="矩形 17" class="cls-3" x="52" y="47" width="38" height="50" rx="4" ry="4"/>
+      <g id="组_76" data-name="组 76">
+        <rect id="矩形_18" data-name="矩形 18" class="cls-4" x="66" y="55" width="12" height="1"/>
+        <rect id="矩形_18_拷贝" data-name="矩形 18 拷贝" class="cls-5" x="66" y="56" width="12" height="1"/>
+      </g>
+      <circle id="椭圆_11" data-name="椭圆 11" class="cls-3" cx="61" cy="56" r="3"/>
+      <g id="组_76_拷贝" data-name="组 76 拷贝">
+        <rect id="矩形_18-2" data-name="矩形 18" class="cls-4" x="58" y="62" width="25" height="1"/>
+        <rect id="矩形_18_拷贝-2" data-name="矩形 18 拷贝" class="cls-5" x="58" y="63" width="25" height="1"/>
+      </g>
+      <g id="组_76_拷贝_2" data-name="组 76 拷贝 2">
+        <rect id="矩形_18-3" data-name="矩形 18" class="cls-4" x="58" y="69" width="25" height="1"/>
+        <rect id="矩形_18_拷贝-3" data-name="矩形 18 拷贝" class="cls-5" x="58" y="70" width="25" height="1"/>
+      </g>
+      <g id="组_76_拷贝_3" data-name="组 76 拷贝 3" class="cls-6">
+        <rect id="矩形_18-4" data-name="矩形 18" class="cls-4" x="23" y="102" width="97" height="1"/>
+        <rect id="矩形_18_拷贝-4" data-name="矩形 18 拷贝" class="cls-5" x="23" y="103" width="97" height="1"/>
+      </g>
+      <g id="组_76_拷贝_4" data-name="组 76 拷贝 4" class="cls-6">
+        <rect id="矩形_18-5" data-name="矩形 18" class="cls-7" x="43" y="105" width="30" height="1"/>
+        <rect id="矩形_18_拷贝-5" data-name="矩形 18 拷贝" class="cls-8" x="43" y="106" width="30" height="1"/>
+      </g>
+      <g id="组_76_拷贝_5" data-name="组 76 拷贝 5" class="cls-6">
+        <rect id="矩形_18-6" data-name="矩形 18" class="cls-7" x="76" y="105" width="4" height="1"/>
+        <rect id="矩形_18_拷贝-6" data-name="矩形 18 拷贝" class="cls-8" x="76" y="106" width="4" height="1"/>
+      </g>
+      <g id="组_76_拷贝_6" data-name="组 76 拷贝 6" class="cls-6">
+        <rect id="矩形_18-7" data-name="矩形 18" class="cls-7" x="82" y="105" width="15" height="1"/>
+        <rect id="矩形_18_拷贝-7" data-name="矩形 18 拷贝" class="cls-8" x="82" y="106" width="15" height="1"/>
+      </g>
+      <circle id="椭圆_10" data-name="椭圆 10" class="cls-9" cx="103.5" cy="31.5" r="2.5"/>
+      <circle id="椭圆_10_拷贝" data-name="椭圆 10 拷贝" class="cls-9" cx="110" cy="52" r="3"/>
+      <circle id="椭圆_10_拷贝_2" data-name="椭圆 10 拷贝 2" class="cls-9" cx="131" cy="70" r="3"/>
+      <circle id="椭圆_10_拷贝_3" data-name="椭圆 10 拷贝 3" class="cls-9" cx="21.5" cy="60.5" r="2.5"/>
+      <circle id="椭圆_10_拷贝_4" data-name="椭圆 10 拷贝 4" class="cls-9" cx="27.5" cy="83.5" r="2.5"/>
+      <rect id="矩形_16" data-name="矩形 16" class="cls-3" x="61" y="36" width="20" height="8" rx="4" ry="4"/>
+    </g>
+  </g>
+</svg>
